@@ -1,0 +1,14 @@
+{
+  "name": "color-role-bot",
+  "version": "1.0.0",
+  "description": "Discord Color Role Bot with emoji buttons",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
